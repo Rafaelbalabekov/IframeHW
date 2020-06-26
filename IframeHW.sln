@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IframeHW", "IframeHW\IframeHW.csproj", "{55C0B9FB-907A-42E1-9EC6-29079E5BCE89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C0B9FB-907A-42E1-9EC6-29079E5BCE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C0B9FB-907A-42E1-9EC6-29079E5BCE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C0B9FB-907A-42E1-9EC6-29079E5BCE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C0B9FB-907A-42E1-9EC6-29079E5BCE89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C7FB6B6-5D29-4443-B60C-EC432A839595}
+	EndGlobalSection
+EndGlobal
